@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 **Languages and Tools:** 
 
 <!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+You can use this api: https://github.com/walid-az7/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
