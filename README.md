@@ -42,7 +42,7 @@ You can use this api: https://github.com/walid-az7/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/c/c-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/c#/c#-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
