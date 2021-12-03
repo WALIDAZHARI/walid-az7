@@ -40,8 +40,8 @@ You can use this api: https://github.com/walid-az7/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
-  <code><img width="8%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+  <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+  <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
