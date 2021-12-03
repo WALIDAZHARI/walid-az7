@@ -67,8 +67,9 @@ I created these images, feel free to use them.
 <p align="center">
   <a href="https://paypal.me/walidazhari?country.x=MA&locale.x=fr_XC" target="_blank">
       <img width="15%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>   And by giving me a Start ⭐️.
+  </a>   
 </p>
+And by giving me a Start ⭐️.
 
 ---
 
