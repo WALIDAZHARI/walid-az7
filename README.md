@@ -40,7 +40,7 @@ You can use this api: https://github.com/walid-az7/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://seeklogo.com/vector-logo/306166/c-programming-language"></code>
+  <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/c#/c#-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
   <br />
